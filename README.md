@@ -2,7 +2,7 @@
 
 ## Overview
 
-Practise Javascript - Code for building a game: rock, paper, or scissors
+Javascript practise - Code for building a game: rock, paper, or scissors
 
 ## Requirement
 
